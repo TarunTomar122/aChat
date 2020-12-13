@@ -33,10 +33,3 @@ ___
  1. Star this repo.
  2.  Push a PR in this README, adding your details in the above table.
 
-## Ka-ching!
-
-<p align="center">
-									  			<a href="https://razorpay.webug.space/TarunTomar122/aChat"><img src="https://i.imgur.com/ihTLDXK.jpeg" width="200"/></a>
-											</p>
-
-# Supporters
